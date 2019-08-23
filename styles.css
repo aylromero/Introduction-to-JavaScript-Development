@@ -1,0 +1,228 @@
+.fonts {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Gochi Hand', cursive;
+}
+#font {
+    color: #29c9f8;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.font1 {
+    color: #29c9f8;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    font-size: 22px;
+}
+.font1:hover {
+    color: #2397B9;
+}
+h2 {
+    color: #4A4A4A;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+h5 {
+    color: #4A4A4A;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-decoration: underline wavy;
+}
+h6 {
+    color: #4A4A4A;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-decoration: underline wavy;
+}
+label {
+    color: #4A4A4A;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.filt {
+    color: #3C3C3C;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-decoration: underline wavy;
+}
+p {
+    color: #4A4A4A;
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+.ident {
+    text-indent: 1em;
+}
+a {
+    color: #29c9f8;
+}
+a:active {
+    color: #4A4A4A;
+}
+a:hover {
+    color: #4A4A4A;
+    text-decoration: none;
+}
+#nav-con:hover {
+    color: #4A4A4A;
+}
+/* nav */
+
+.show>.btn-secondary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0 !important;
+}
+.dropdown {
+    position: static !important;
+    appearance: none;
+    cursor: pointer;
+}
+.dropdown-item:hover {
+    background-color: rgb(0, 128, 128, 0.1)
+}
+.dropdown-toggle::after {
+    content: inherit !important;
+}
+.dropdown-toggle:before {
+    content: inherit !important;
+}
+#font {
+    color: #29c9f8;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 22px;
+}
+#fontdropdown {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #4A4A4A;
+    font-size: 20px;
+}
+#font:hover {
+    color: #4A4A4A;
+}
+/* border */
+
+#bordeNav {
+    font-size: 22px;
+    background-color: #F3F3F3;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-style: solid;
+    width: 90vw;
+    position: relative;
+    left: 5%;
+}
+#divFooter {
+    font-size: 22px;
+    background-color: #F3F3F3;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-style: solid;
+    width: 90vw;
+    position: relative;
+    left: 5%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+#fontc {
+    color: #29c9f8;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 22px;
+}
+/* img header */
+
+.logo {
+    width: 160px;
+    height: 75px;
+}
+.icon-mail {
+    width: 35px;
+    height: 35px;
+    opacity: 0.6;
+}
+.link {
+    color: #29c9f8;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1em;
+}
+.img-responsive {
+    height: 300px;
+    width: 300px;
+}
+/* footer */
+
+/* #divFooter {
+    font-size: 22px;
+    background-color: #F3F3F3;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-style: solid;
+    width: 90vw;
+    position: relative;
+    left: 5%;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 1px;
+} */
+
+.imgMove {
+    float: right;
+    margin: 10px;
+    width: 280px;
+    height: 280px;
+    display: inline-block;
+}
+.btn-info {
+    background-color: white;
+    border: none;
+}
+.btn-info:hover {
+    color: white;
+    background-color: #29c9f8;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.table-hover {
+    font-family: 'Shadows Into Light', cursive;
+}
+thead {
+    font-weight: bolder;
+    color: #4A4A4A;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+tbody {
+    color: #29c9f8;
+    font-weight: bolder;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.table-hover:hover {
+    color: #4A4A4A;
+}
+/* tablas */
+
+.table th, .table td {
+    border-top: none !important;
+    border-left: none !important;
+    border-bottom: none !important;
+    text-align: center;
+}
