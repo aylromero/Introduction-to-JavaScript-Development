@@ -3,5 +3,5 @@ Web application using JavaScript technologies: AJAX, JSON, RESTful APIs and Vue.
 View on: https://aylromero.github.io/TGIF
 
 
-![Tgif](https://github.com/aylromero/TGIF/blob/master/tgif.JPG)
+![Tgif](https://github.com/aylromero/TGIF/blob/master/tgif.gif)
 
